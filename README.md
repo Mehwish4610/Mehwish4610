@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 - 🔭 I’m currently working on **project based on MERN STACK**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **AWS Cloud Computing**
 
 - 👯 I’m looking to collaborate on **any project**
 
