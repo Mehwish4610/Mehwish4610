@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/66074608/224107954-9878773b-8814-4f97-b640-686db58994f6.gif)
 <h1 align="center">Hi 👋, I'm Mehwish</h1>
-<h3 align="center">A passionate Web developer and an enthusiastic Cybersecurity Aspirant from India.</h3>
+<h3 align="center">A passionate Web developer and an enthusiastic Data Scientist from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 - 🔭 I’m currently working on **project based on MERN STACK**
 
@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 💬 Ask me about **C#, python , C++, C , bootstrap, sql, html, CSS.**
+- 💬 Ask me about **C#, python, C , sql, html, CSS.**
 
-- 📫 How to reach me **mehwish10303@gmail.com**
+- 📫 How to reach me **mehwishafreen10303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
