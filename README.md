@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mehwish</h1>
 <h3 align="center">A passionate Web developer and an enthusiastic Data Scientist from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-- 🔭 I’m currently working on **project based on MERN STACK**
+- 🔭 I’m currently working on **project based on FullStack Development using laravel and other Web Frameworks**
 
 - 🌱 I’m currently learning **AWS Cloud Computing**
 
