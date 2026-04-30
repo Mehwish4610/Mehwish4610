@@ -70,13 +70,14 @@
 
 ## 🚀 Featured Project
 
-### 🛣️ AI Pothole Detection System
-- 🔍 Detect potholes using YOLOv8  
-- 📏 Depth estimation using MiDaS  
-- 💰 Repair cost estimation  
-- 📊 Streamlit dashboard for uploads  
+### 🛣️ AI-Based Pothole Detection System
+- 🔍 Implemented **YOLOv8** for accurate pothole detection  
+- 📏 Integrated **MiDaS depth estimation** to calculate real-world depth  
+- 💰 Developed **repair cost estimation model (INR)** based on pothole size and severity  
+- 📊 Built an interactive **Streamlit dashboard** for image upload and analysis  
+- ⚙️ Designed an end-to-end pipeline from detection → depth → cost estimation  
 
-👉 *(Add your GitHub repo link here)*
+👉 [View Project](https://github.com/Mehwish4610/automatic-pothole-detection-system)
 
 ---
 
@@ -84,6 +85,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mehwish4610&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehwish4610&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
@@ -105,12 +108,14 @@
 
 ---
 
+<!-- 
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mehwish4610&theme=radical&no-frame=true&margin-w=10"/>
 </p>
-
+-->
 ---
 
 ## 👀 Profile Views
@@ -120,6 +125,16 @@
 </p>
 
 ---
+## 💼 Looking for Opportunities
 
+🎯 Seeking entry-level roles in **Software Development / Full-Stack / AI/ML**
+
+💻 Interested in building scalable applications and solving real-world problems  
+
+🌱 Continuously learning and improving in backend systems, APIs, and data-driven development  
+
+📫 Open to internships, full-time roles, and collaborative projects  
+
+---
 ## ⚡ Fun Fact
 ✨ I love turning ideas into real-world applications using code!
