@@ -1,50 +1,59 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=25&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mehwish;Full+Stack+Developer;AI/ML+Enthusiast;Future+Software+Engineer🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&color=00F5FF&size=30&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mehwish;Computer+Science+Graduate;Full+Stack+Developer;AI/ML+Enthusiast;Building+Real+World+Projects+🚀" />
 </p>
 
-<h1 align="center">✨ Mehwish Shariff ✨</h1>
+<h1 align="center">MEHWISH</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | AI/ML Enthusiast | Problem Solver</b>
+  <b>Full-Stack Developer • AI/ML Enthusiast • Building Data-Driven Applications</b>
 </p>
 
----
 
-## 🚀 About Me
-💻 Passionate about building scalable web applications  
-🧠 Exploring AI/ML & real-world problem solving  
-⚡ Love clean UI, performance & smart architecture  
-🌱 Currently learning Node.js & backend systems  
+## 🧑‍💻 About Me
+
+💻 Computer Science graduate with hands-on experience in building full-stack and AI-powered applications  
+
+🛣️ Developed an AI-based pothole detection system using YOLOv8 with depth estimation and cost analysis  
+
+🧠 Strong interest in applying AI/ML to solve real-world problems and improve infrastructure systems  
+
+⚙️ Continuously improving skills in backend development, APIs, and data-driven applications  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://linkedin.com/in/mehwish">
+<p>
+<a href="https://linkedin.com/in/mehwish-18476a266/">
 <img src="https://img.shields.io/badge/LinkedIn-ff00cc?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
+
+<p>  
 <a href="mailto:mehwishafreen10303@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ff4b5c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white"/>
+</p>
+
+<p>
+<a href="https://github.com/mehwish4610">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-### 🚀 Languages
+### 💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,cs" />
 </p>
 
 ### 🌐 Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### 🗄️ Databases
