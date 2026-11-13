@@ -165,17 +165,6 @@ Explored AI-powered question answering for equity research information, focusing
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehwish4610&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehwish4610&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## ✍️ Writing & Knowledge Sharing
 
